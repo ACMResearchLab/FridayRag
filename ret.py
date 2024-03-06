@@ -8,7 +8,7 @@ from sklearn.preprocessing import normalize
 from scipy.spatial.distance import cosine
 # from sentence_transformers import SentenceTransformer
 
-#client = OpenAI(api_key='sk-UIeMU 5PNPLCBWrhZOFHdT 3BlbkFJkpVGPDsaO U9QgyyDX DOY')
+#client = OpenAI(api_key='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')
 #uncomment that line out
 
 
